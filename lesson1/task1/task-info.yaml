@@ -1,6 +1,6 @@
 type: edu
 files:
-  - name: src/Task.java
+  - name: src/Triangle.java
     visible: true
   - name: All About Triangles_Page_1.jpg
     visible: true
